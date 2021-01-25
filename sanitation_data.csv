@@ -1,0 +1,245 @@
+Timestamp,GPS coordinates,Type of infrastructure component/features of interest,Rate the sanitary state of the identified feature,What is the main source of drinking water in the area?,Are water treatment methods observed in the area?,"If yes, what water treatment method is used? If no, why?"
+12/9/2020 10:23:37,"-1.3968687, 36.7651892",Water storage tank,5,Tap,NO,Ignorance
+12/9/2020 10:26:27,"-1.3982161, 36.7657481",Water storage tank,6,Tap water,NO,Ignorance
+12/9/2020 10:27:07,"-1.396474,36.766537",Run off water/sewer line,1,Bottled water,NO,Floating sewarage water
+12/9/2020 10:27:08,"-1.3953651, 36.7662201",Run off water/sewer line,2,Bottled water ,NO,"The area uses bottled bought drinking water, then we have no treatment methods around the area."
+12/9/2020 10:27:15,"-1.3966388, 36.7647778",Water storage tank,6,Tap water,NO,Ignorance
+12/9/2020 10:27:21,"-1.396629,36.764820",Water storage tank,6,Tap water ,NO,ignorance
+12/9/2020 10:29:32,"-1.3963871,36.7653836",Run off water/sewer line,3,tap water,YES,boiling/chlorination
+12/9/2020 10:29:42,"-1.3963871,36.7653836",Run off water/sewer line,2,Tap water,YES,Chlorination
+12/9/2020 10:29:51,"-1.3963871, 36.7653836",Run off water/sewer line,2,Tap water,YES,Chlorination
+12/9/2020 10:34:01,"-1.3955320, 36.7666976",Run off water/sewer line,3,piped water,NO,People buy bottled water
+12/9/2020 10:35:31,"-1.3982161, 36.7657481",Public/shared toilets,5,Tap water,NO,Ignorance
+12/9/2020 10:35:53,"-1.3982017, 36.7650923",Public/shared toilets,5,Tap,NO,Ignorance
+12/9/2020 10:36:34,"-1.3982141, 36.7649743",Public/shared toilets,5,Tap,NO,Ignorance
+12/9/2020 10:36:47,"-1.3973963, 36.7662382",Public/shared toilets,6,Borehole ,YES,Chlorination
+12/9/2020 10:36:59,"-1.3973963, 36.7662382",Public/shared toilets,6,Borehole,YES,Chlorination
+12/9/2020 10:37:01,"-1.3973963,36.7662382",Public/shared toilets,6,Borehole,YES,Chlorination
+12/9/2020 10:37:46,"-1.396629,36.764820",Public/shared toilets,5,tap water,NO,ignorance
+12/9/2020 10:39:57,"-1.3963871,36.7653836",Run off water/sewer line,2,Tap water,YES,Boiling
+12/9/2020 10:43:04,"-1.397161,36.764607",Run off water/sewer line,3,storage tanks,NO,lack of knowlegde on water treatment methods
+12/9/2020 10:46:12,"-1.3979124,36.7665209",Run off water/sewer line,4,Borehole,YES,Chlorination
+12/9/2020 10:46:24,"-1.3979124, 36.7665209",Run off water/sewer line,4,Borehole,YES,Chlorination
+12/9/2020 10:46:59,"-1.3950497, 36.7654517",Run off water/sewer line,4,Bohole,YES,Chlorination
+12/9/2020 10:48:30,"-1.3962098, 36.7692604",Public/shared toilets,1,piped,YES,Decantation
+12/9/2020 10:48:34,"-1.3982161, 36.7657481",Community water point,6,Water refill,YES,Chlorination
+12/9/2020 10:49:12,"-1.3979124,36.7665209",Run off water/sewer line,4,Borehole,YES,Chlorination
+12/9/2020 10:49:57,"-1.3979124,36.7665209",Run off water/sewer line,4,Borehole,YES,Chlorination
+12/9/2020 10:50:10,"-1.400731,36.766081",Community water point,6,water refill points,YES,Chlorination
+12/9/2020 10:50:11,"-1.3960934, 36.7694596",Solid waste site,3,Running tap water,NO,We haven’t identified any treatment method around
+12/9/2020 10:50:19,"-1.3979124,36.7665209",Run off water/sewer line,4,Borehole,YES,Chlorination
+12/9/2020 10:50:21,"-1.4005550, 36.7658356",Community water point,6,Water refill,YES,Chlorination
+12/9/2020 10:50:38,"-1.3982008,36.767619",Public/shared toilets,4,Water refill,YES,Purification
+12/9/2020 10:50:39,"-1.3982008,36.767619",Public/shared toilets,4,Water refill,YES,Purification
+12/9/2020 10:51:47,"-1.3982008,36.767619",Public/shared toilets,4,Water refill,YES,Purification
+12/9/2020 10:51:52,"-1.398469,36.7659915",Solid waste site,2,Borehol,YES,Chlorination
+12/9/2020 10:52:07,"-1.398469,36.7659915",Solid waste site,2,Borehole,YES,Chlorination
+12/9/2020 10:52:08,"-1.3984869, 36.7659915",Solid waste site,2,Borehole,YES,Chlorination
+12/9/2020 10:52:23,"-1.3984869, 36.7659915",Solid waste site,2,Borehole,YES,Chlorination
+12/9/2020 10:52:44,"-1.395343,36.769695",Public/shared toilets,4,Bottlled water,NO,Bought water
+12/9/2020 10:58:07,"-1.400071,36.767291",Community water point,6,Water refill,YES,Chlorination
+12/9/2020 11:01:48,"-1.3992119,36.7672545",Community water point,7,Borehole,YES,Chlorination
+12/9/2020 11:02:02,"-1.3992119, 36.7672545",Community water point,7,Borehole,YES,Chlorination
+12/9/2020 11:02:03,"-1.3992119, 36.7672545",Community water point,7,Borehole ,YES,Chlorination
+12/9/2020 11:02:14,"-1.3992119,36.7672545",Community water point,7,Borehole,YES,Chlorination
+12/9/2020 11:02:23,"-1.397248,36.767619",Public/shared toilets,5,refill water,YES,already treated
+12/9/2020 11:05:10,"-1.397750,36.767950",Community water point,3,Borehole,YES,Boiling
+12/9/2020 11:05:42,"-1.397750,36.767950",Community water point,3,Borehole water,YES,Boiling water
+12/9/2020 11:06:37,"-1.396972,36.768044",Manhole,1,Storage tank,NO,They have no idea
+12/9/2020 11:11:01,"-1.3970487, 36.7684145",Manhole,3,Bottled water ,NO,They buy mostly bottled drinking water 
+12/9/2020 11:11:28,"-1.4037143, 36.7676769",County water,4,Tap,YES,Chlorination
+12/9/2020 11:11:36,"-1.3982161, 36.7657481",County  council ,4,Tap water,YES,Chlorination
+12/9/2020 11:12:56,"-1.397750,36.767950",Community water point,4,borehole,YES,boiling
+12/9/2020 11:13:04,"-1.397750,36.767950",Community water point,3,Borehole,YES,Boiling
+12/9/2020 11:13:20,"-1.403116,36.768048",municipal water ,4,Tap water,YES,Boiling
+12/9/2020 11:13:53,"-1.4027591, 36.7683200",County water,4,Tap water,YES,Chlorinated
+12/9/2020 11:15:30,"-1.3972532, 36.7683984",Open water bodies,2,Tap water ,NO,There’s no area with such facility or sale of treatment 
+12/9/2020 11:15:38,"-1.3980780, 36.7683760",Public/shared toilets,1,bottled,YES,Water dispenser
+12/9/2020 11:21:10,"-1.397750,36.767950",Community water point,3,Borehole,YES,Boiling
+12/9/2020 11:24:36,"-1.396662,36.768377",Open water bodies,1,Tap water,NO,Ignorance
+12/9/2020 11:24:37,"-1.396662,36.768377",Open water bodies,1,tap water,NO,ignorance
+12/9/2020 11:24:41,"-1.396662,36.768377",Open water bodies,1,Tap water,NO,Ignorance
+12/9/2020 11:25:18,"-1.3992656, 36.7688065",Water storage tank,1,Kanjo water ,NO,Direct from the tap.  
+12/9/2020 11:30:05,"-1.3999788, 36.7693198",Open water bodies,2,Piped,NO,Too expensive
+12/9/2020 11:30:55,"-1.3997841, 36.7693748",Open water bodies,3,River water,NO,None 
+12/9/2020 11:36:12,"-1.4003478, 36.7689607",Solid waste site,3,river,NO,They can't afford it
+12/9/2020 11:37:01,"-1.4000582, 36.7693744",Open water bodies,2,river,NO,Too expensive
+12/9/2020 12:14:47,"-1.398664,36.767685",Open water bodies,3,tap water,YES,boiling
+12/9/2020 12:07:53,"-1.395177,36.764917",Community water point,5,Storage water tank,YES,Chlorine
+12/9/2020 12:11:24,"-1.396339,36.766382",Solid waste site,3,Citycouncil water,YES,Chlorine treatment 
+12/9/2020 12:13:43,"-1.3958775, 36.7673822",Solid waste site,3,Bottled and tap water ,NO,No treatment plant 
+12/9/2020 12:14:30,"-1.395560,36.765947",Solid waste site,4,community water point,YES,chlorination
+12/9/2020 12:14:35,"-1.3954268, 36.7656612",Public/shared toilets,6,Tap water,YES,Chlorinated
+12/9/2020 12:14:47,"-1.3988731, 36.7671019",Community water point,7,borehole,YES,filtration
+12/9/2020 12:15:15,"-1.398664,36.767685",Solid waste site,2,Tap water,NO,Lack of awareness
+12/9/2020 12:15:53,"-1.4001477, 36.7666617",Water storage tank,7,piped,YES,filtration
+12/9/2020 12:17:00,"-1.3990960, 36.7658265",Run off water/sewer line,3,Tap,NO,Ignorance
+12/9/2020 12:18:23,"-1.3975756, 36.7686683",Run off water/sewer line,1,Tap/kanjo ,NO,They drink directly from tap
+12/9/2020 12:18:35,"-1.3996668, 36.7660914",Solid waste site,2,Tap,YES,Chlorination
+12/9/2020 12:20:02,"-1.394902,36.766709",Run off water/sewer line,4,water refill points,YES,purification and filtration.
+12/9/2020 12:20:34,"-1.399182,36.768022",Water storage tank,5,Bottled water,NO,Its borehole water
+12/9/2020 20:40:44,"-1.3925542315950092, 36.76909234088781",Manhole,1,Running tap,NO,No storage tanks
+12/9/2020 20:50:43,"-1.3920383003586607, 36.76920033659327",Open water bodies,4,Running tap,NO,No storage facility 
+12/10/2020 10:02:41,"-1.3913701, 36.7653551",Water storage tank,7,Water refill,YES,Chlorination
+12/10/2020 10:02:55,"-1.390816,36.766682",Water storage tank,7,water refill points,YES,purification and filtration
+12/10/2020 10:03:09,"-1.3944149, 36.7615404",Run off water/sewer line,5,Borehole,YES,Chlorination
+12/10/2020 10:03:21,"-1.3969455, 36.7609989",Solid waste site,1,Community water point,NO,they dont care
+12/10/2020 10:04:19,"-1.3967983, 36.7611682",Run off water/sewer line,1,bottled,YES,filtration
+12/10/2020 10:05:23,"-1.394569,36.759814",Run off water/sewer line,5,Borehole,YES,Chlorination
+12/10/2020 10:05:26,"-1.3945687, 36.7598144",Run off water/sewer line,5,Borehole,YES,Chlorination
+12/10/2020 10:05:45,"-1.394569,36.759814",Run off water/sewer line,5,Borehole,YES,Chlorination
+12/10/2020 10:06:33,"-1.3901179, 36.7649796",Open water bodies,3,Tap,YES,Chlorination
+12/10/2020 10:06:44,"-1.3905107, 36.7651771",Water storage tank,7,Water refill,YES,Chlorination
+12/10/2020 10:06:56,"-1.3905714, 36.7650353",Water storage tank,7,Water refill,YES,Chlorination
+12/10/2020 10:08:09,"-1.389988,36.765314",Open water bodies,3,tap water,YES,"Chlorination, boiling"
+12/10/2020 10:08:14,"-1.3900693, 36.7651090",Open water bodies,3,Tap water,YES,Chlorination
+12/10/2020 10:09:40,"-1.3899728, 36.7653156",Open water bodies,3,Tap water,YES,Boiling
+12/10/2020 10:09:48,"-1.389988,36.765314",Solid waste site,3,tap water,YES,boiling
+12/10/2020 10:14:10,"-1.3892226, 36.7641106",Water storage tank,6,Tap water,YES,Chlorination
+12/10/2020 10:14:43,"-1.3896822, 36.7646051",Water storage tank,6,Tap,YES,Chlorination
+12/10/2020 10:15:19,"-1.3891503, 36.7642993",Water storage tank,6,Tap water,YES,Chlorinated
+12/10/2020 10:15:27,"-1.389988,36.765314",Water storage tank,6,tap water,YES,chlorine and boiling.
+12/10/2020 10:17:13,"-1.393657, 36.758461",Public/shared toilets,4,Borehole,YES,Chlorination
+12/10/2020 10:17:18,"-1.393657,36.758461",Public/shared toilets,4,Bore hole,YES,Chlorination
+12/10/2020 10:17:23,"-1.393657,36.758461",Public/shared toilets,4,Borhole,YES,Chlorination
+12/10/2020 10:21:56,"-1.392317,36.71091",Run off water/sewer line,2,Tap water,YES,Boiling water
+12/10/2020 10:23:21,"-1.3888945, 36.7636305",Water storage tank,5,Water refill,YES,Chlorination
+12/10/2020 10:23:28,"-1.3888915, 36.7641465",Water storage tank,5,Water refill,YES,Chlorinated
+12/10/2020 10:24:20,"-1.392317,36.761091",Run off water/sewer line,2,tap water,YES,boiling
+12/10/2020 10:26:25,"-1.392317,36.761091",Run off water/sewer line,2,Tap water,YES,Boiling
+12/10/2020 10:28:03,"-1.3942848,36.7558393",Water storage tank,7,Borehole,YES,Chlorination
+12/10/2020 10:28:13,"-1.394182,36.755694",Water storage tank,7,Borhole,YES,Chlorination
+12/10/2020 10:28:18,"-1.388942,36.763684",Community water point,5,tap water,NO,lack of knowledge
+12/10/2020 10:28:25,"-1.394182,36.755694",Water storage tank,7,Borehole,YES,Water guard
+12/10/2020 10:28:50,"-1.3942848, 36.7558393",Water storage tank,7,Borehole,YES,Water 
+12/10/2020 10:28:54,"-1.396709,36.752075",Run off water/sewer line,3,Storage water tank,NO,Running dirty water
+12/10/2020 10:29:11,"-1.3888724, 36.7630789",Rain water,6,Tap water ,YES,Chlorination
+12/10/2020 10:31:32,"-1.3890155, 36.7633586",Community water point,4,Rain water/tapwater,YES,Chlorinated
+12/10/2020 10:31:43,"-1.394285,36.755839",Water storage tank,7,Bowhole,YES,Boiling
+12/10/2020 10:31:56,"-1.3893785, 36.7625046",Community water point,4,Tap,YES,Chlorination
+12/10/2020 10:32:16,"-1.388942,36.763684",Community water point,4,Rain water/ tap water,NO,ignorance
+12/10/2020 10:32:45,"-1.3942449, 36.7557857",Manhole,5,Borehole ,YES,Chlorination
+12/10/2020 10:33:00,"-1.3942449,36.7557857",Manhole,5,Borehole,YES,Chlorination
+12/10/2020 10:33:03,"-1.3942449,36.7447857",Manhole,5,Borhole,YES,Chlorination
+12/10/2020 10:33:37,"-1.3942449,36.7557857",Manhole,5,Bohole,YES,Chlorination
+12/10/2020 10:33:53,"-1.3942449,36.7557857",Manhole,5,Bowhole,YES,Chlorination
+12/10/2020 10:34:56,"-1.3950889, 36.7519199",Public/shared toilets,3,donkey cart,NO,ignorance
+12/10/2020 10:35:03,"-1.3893785, 36.7625046",Community water point,4,Tap,YES,Chlorination
+12/10/2020 10:36:33,"-1.3888811, 36.7621794",Community water point,5,Tap,NO,Ignorance
+12/10/2020 10:36:51,"-1.3953785, 36.7512638",Run off water/sewer line,1,run off water,NO,expense
+12/10/2020 10:37:58,"-1.3886787, 36.7622706",Community water point,5,Tap water,NO,Ignorance
+12/10/2020 10:38:04,"-1.3886394, 36.7621744",Community water point,5,Tap water,NO,Ignorance
+12/10/2020 10:38:26,"-1.396956,36.754819",Open water bodies,5,Borehole,YES,Chlorination
+12/10/2020 10:38:28,"-1.396956,36.754819",Open water bodies,5,Borehole,YES,Chlorination
+12/10/2020 10:38:34,"-1.3953785, 36.7512638",Run off water/sewer line,2,run off,NO,ignorance
+12/10/2020 10:38:36,"-1.396956,36.754819",Open water bodies,5,Borhole,YES,Chlorination
+12/10/2020 10:38:58,"-1.396956,36.754819",Open water bodies,5,Bohole,YES,Chlorination
+12/10/2020 10:39:12,"-1.388628,36.762288",Community water point,5,tap water ,NO,ignorance
+12/10/2020 10:39:31,"-1.396956,36.754819",Open water bodies,5,Bohole,YES,Chlorination
+12/10/2020 10:41:14,"-1.3955124483948012, 36.75020847941608",Run off water/sewer line,1,Tap,NO,No tanks
+12/10/2020 10:41:16,"-1.3942620, 36.7560412",Run off water/sewer line,5,Borehole,YES,Chlorination
+12/10/2020 10:41:28,"-1.3942620,36.7560412",Run off water/sewer line,5,Borehole,YES,Chlorination
+12/10/2020 10:41:35,"-1.3942620,36.7560412",Run off water/sewer line,5,Bohole,YES,Chlorination
+12/10/2020 10:41:46,"-1.3942620,36.7560412",Run off water/sewer line,5,Borhole,YES,Chlorination
+12/10/2020 10:41:55,"-1.3942620,36.7560412",Run off water/sewer line,5,Bohole,YES,Chlorination
+12/10/2020 10:42:32,"-1.3952723, 36.7497058",Run off water/sewer line,1,run off,NO,ignorance
+12/10/2020 10:45:47,"-1.3951623, 36.7490161",Run off water/sewer line,2,piped,NO,Lack of proper chemicals
+12/10/2020 10:48:28,"-1.3877053, 36.7606103",Water storage tank,7,Water refill,YES,Chlorination
+12/10/2020 10:48:39,"-1.3877737, 36.7605560",Water storage tank,7,Water refill,YES,Chlorination
+12/10/2020 10:50:25,"-1.3954972, 36.7496826",Solid waste site,1,Storage tank,NO,Not sure if treated
+12/10/2020 10:50:47,"-1.3877328, 36.7605825",Water storage tank,7,Water refill,YES,Chlorinated
+12/10/2020 10:50:54,"-1.387748,36.760566",Water storage tank,7,water refill points,YES,chlorinated and purified
+12/10/2020 10:55:39,"-1.394724,36.754469",Gabbage,4,Bore hole,YES,Chlorination
+12/10/2020 10:55:43,"-1.394724,36.754469",Garvage,4,Borhole,YES,Chlorination
+12/10/2020 10:55:48,"-1.394724,36.754469",Garbage,4,Borehole,YES,Chlorination
+12/10/2020 10:55:49,"-1.394724,36.754469",Garbage,4,Borehole,YES,Water tank
+12/10/2020 10:56:08,"-1.394724,36.754469",Garbage,4,Borehole ,YES,Water tank
+12/10/2020 10:58:59,"-1.3877251, 36.7564448",Community water point,4,Tap,YES,Chlorination
+12/10/2020 10:59:04,"-1.3874747, 36.7583968",Community water point,4,Tap water,YES,Chlorination
+12/10/2020 10:59:28,"-1.3874700, 36.7584491",Community water point,4,Tap water,YES,Boiling
+12/10/2020 11:00:33,"-1.3946103,36.7545633",Water storage tank,6,Borehole,YES,Water guard
+12/10/2020 11:00:36,"-1.3946103,36.7545633",Water storage tank,6,Borehole,YES,Watergaurd
+12/10/2020 11:00:41,"-1.3953527, 36.7502248",Open water bodies,1,Non,NO,There are none
+12/10/2020 11:00:50,"-1.3946103,36.7545633",Water storage tank,6,Borhole,YES,Whater gurd
+12/10/2020 11:01:13,"-1.387500,36.758429",Community water point,4,rain water,NO,Ignorance
+12/10/2020 11:01:31,"-1.3946103, 36.7545633",Water storage tank,6,Borehole,YES,Water tank
+12/10/2020 11:01:52,"-1.3946103,36.7545633",Water storage tank,6,Borehole,YES,Watertank
+12/10/2020 11:02:03,"-1.3948791, 36.7483027",Solid waste site,1,Non ,NO,None
+12/10/2020 11:03:43,"-1.3954972, 36.7496826",Run off water/sewer line,1,Bottled water ,NO,Unaware
+12/10/2020 11:04:38,"-1.3887930, 36.7578144",Borehole,5,Refill,YES,Chlorination
+12/10/2020 11:04:43,"-1.3882030, 36.7579365",Borehole,5,Water refil,YES,Chlorination
+12/10/2020 11:06:34,"-1.3896071, 36.7572944",Manhole,7,Tap water,YES,Chlorinated
+12/10/2020 11:06:50,"-1.388300,36.757850",Borehole,5,water refill points,YES,chlorine and water guard
+12/10/2020 11:09:57,"-1.3954972, 36.7496826",Water storage tank,4,Stotage tank,YES,Chlorine treatment 
+12/10/2020 11:10:25,"-1.392775,36.759367",Open water bodies,1,Borehole,NO,Lack of awareness
+12/10/2020 11:10:44,"-1.392775,36.759367",Open water bodies,4,borehole,NO,lack of awareness
+12/10/2020 11:11:37,"-1.392775,36.759367",Open water bodies,1,Borehole water,YES,Boiling water
+12/10/2020 11:11:41,"-1.388986,36.757908",Public/shared toilets,4,Tap water/ borehole water,YES,Boiling
+12/10/2020 11:11:45,"-1.3892793, 36.7575278",Public/shared toilets,4,Borehole,NO,Ignorance
+12/10/2020 11:12:30,"-1.3888620, 36.7570869",Public/shared toilets,4,Borehole,NO,Ignorance
+12/10/2020 11:13:00,"-1.3948791, 36.7483027",Solid waste site,1,Non ,NO,None
+12/10/2020 11:13:43,"-1.392317,36.761091",Run off water/sewer line,2,Tap water,YES,Boiling
+12/10/2020 11:14:03,"-1.3943240, 36.7466253",Community water point,4,Tap water from community water centre,YES,Government county council 
+12/10/2020 11:14:18,"-1.3898783, 36.7569441",Public/shared toilets,4,Tap water,NO,Ignorance
+12/10/2020 11:14:49,"-1.392775,36.759367",Open water bodies,1,Borehole,NO,Not aware
+12/10/2020 11:15:08,"-1.396460,36.751430",Community water point,4,Water tank,YES,Chlorine treatment 
+12/10/2020 11:15:12,"-1.3944062, 36.7468921",Open water bodies,1,Community water tank,YES,Council 
+12/10/2020 11:16:27,"-1.3944504, 36.7471107",Solid waste site,1,Tap water ,NO,None
+12/10/2020 11:16:42,"-1.392813,36.757424",Solid waste site,2,Borehole,NO,Ignorance
+12/10/2020 11:16:49,"-1.392813,36.757424",Solid waste site,2,borehole,NO,ignorance
+12/10/2020 11:17:13,"-1.392813,36.757424",Solid waste site,2,Borehole water,NO,Ignorance
+12/10/2020 11:17:28,"-1.392813,36.757424",Solid waste site,2,Borehole,NO,Ignorance
+12/10/2020 11:19:11,"-1.392722,36.757483",Public/shared toilets,1,tap water,YES,chlorine
+12/10/2020 11:19:14,"-1.392722,36.757483",Public/shared toilets,1,Tap water,YES,Chlorination
+12/10/2020 11:19:15,"-1.394239,36.750431",Solid waste site,2,Community water point,NO,None obsevered 
+12/10/2020 11:19:40,"-1.3903026, 36.7568384",Open water bodies,1,Tap water,NO,Ignorance
+12/10/2020 11:19:57,"-1.392722,36.757483",Public/shared toilets,1,Tap water,YES,Chlorinating
+12/10/2020 11:20:05,"-1.394239,36.750431",Manhole,1,Storage tank,NO,Not sure says its from the city council
+12/10/2020 11:20:25,"-1.392722,36.757483",Tap water,1,Tap water,YES,Chlorine
+12/10/2020 11:21:04,"-1.390059,36.756553",Open water bodies,2,tap water,NO,ignorance
+12/10/2020 11:21:22,"-1.3900448, 36.7566215",Open water bodies,1,Tap,NO,Ignorance
+12/10/2020 11:22:27,"-1.3902305, 36.7569082",Open water bodies,1,Tap water,NO,Ignorance
+12/10/2020 11:23:09,"-1.391203853361818, 36.74692867958482",Solid waste site,2,Storage tank,YES,Reservation
+12/10/2020 11:23:21,"-1.393860,36.747003",Public/shared toilets,2,Community water point,YES,Chlorine treated 
+12/10/2020 11:27:17,"-1.3941862, 36.7455768",Solid waste site,2,Tap from olerai ,NO,None
+12/10/2020 11:30:29,"-1.3932417, 36.7452374",Open water bodies,3,Tap water ,NO,None 
+12/10/2020 11:33:44,"-1.395414,36.744835",Open water bodies,3,Bottle water,NO,Not sure
+12/10/2020 11:35:34,"-1.395414,36.744835",Public/shared toilets,1,Storage water tank,YES,Chlorine treatment 
+12/10/2020 11:40:23,"-1.3923675, 36.7446966",Community water point,4,Community water tank ,NO,None
+12/10/2020 11:41:29,"-1.392457,36.744795",Community water point,5,Storage tank,YES,Not sure which one
+12/10/2020 11:43:30,"-1.392457,36.744795",Public/shared toilets,5,Bottled water,YES,Treated well
+12/10/2020 11:45:03,"-1.392457,36.744795",Manhole,5,Storage tank,YES,Cleaned tanks
+12/10/2020 11:57:35,"-1.394754,36.747983",Solid waste site,1,None,NO,No water point observed
+12/10/2020 11:57:39,"-1.393230,36.761131",Water storage tank,3,borehole,YES,chlorine
+12/10/2020 11:58:21,"-1.393230,36.761131",Water storage tank,3,Borehole,YES,Chlorine
+12/10/2020 11:58:24,"-1.393230,36.761131",Water storage tank,3,Borohol,YES,Crolin
+12/10/2020 11:58:37,"-1.393230,36.761131",Water storage tank,3,Borehole,YES,Chlorination
+12/10/2020 12:01:14,"-1.392772,36.756711",Solid waste site,1,Tap water,NO,Ignorance
+12/10/2020 12:01:25,"-1.392772,36.756711",Solid waste site,1,tap water,NO,ignorance
+12/10/2020 12:01:28,"-1.392772,36.756711",Solid waste site,1,Tap water,NO,Ignorance
+12/10/2020 12:01:39,"-1.392772,36.756711",Solid waste site,1,Tap water,NO,Ignorance
+12/10/2020 12:03:42,"-1.392257,36.758145",Run off water/sewer line,1,Borehole,YES,Boiling
+12/10/2020 12:03:56,"-1.392257,36.758145",Run off water/sewer line,1,Borohol,NO,Ignorance
+12/10/2020 12:04:03,"-1.392257,36.758145",Run off water/sewer line,1,borehole,YES,boiling
+12/10/2020 12:04:04,"-1.392257,36.758145",Run off water/sewer line,1,Borehole,YES,Boiling
+12/10/2020 12:05:59,"-1.391596,36.758788",Community water point,3,River,YES,Chlorine
+12/10/2020 12:06:05,"-1.391596,36.758788",Community water point,3,River,YES,Chlorination
+12/10/2020 12:06:06,"-1.391596,36.758788",Community water point,3,river,YES,chlorine
+12/10/2020 12:06:51,"-1.391596,36.758788",Community water point,3,Rever,YES,Chrorin
+12/10/2020 12:07:59,"-1.3960891, 36.7506861",Solid waste site,1,Community water tank ,NO,None 
+12/10/2020 12:08:49,"-1.396489,36.750655",Water storage tank,3,Storage tank,NO,None observed
+12/10/2020 12:10:11,"-1.396489,36.750655",Solid waste site,1,Water vendor,NO,The vendor is unaware
+12/10/2020 12:12:01,"-1.3961012, 36.7513339",Solid waste site,1,Tap,YES,Treated from the water source
+12/10/2020 12:12:40,"-1.396381,36.751458",Run off water/sewer line,1,Water vendor,YES,City council treated 
+12/10/2020 12:15:04,"-1.396457,36.751442",Public/shared toilets,3,Bottle water,NO,None observed 
+12/10/2020 14:20:23,"-1.392694,36.753655",Public/shared toilets,3,Borehole,YES,Whater gurd
+12/10/2020 14:25:27,"-1.395325,36.751769",Manhole,4,Borehole,YES,Whater gurd
+12/10/2020 14:29:36,"-1.397713, 36.750015",Run off water/sewer line,4,Borehole,YES,Whater gurd
+12/10/2020 14:39:42,"-1.396439,36.750202",Public/shared toilets,4,Borehole,YES,Boiling and watergaurd
+12/10/2020 14:44:33,"-1.3896275, 36.7564002",Public/shared toilets,2,Tap,YES,Chlorination
+12/10/2020 14:59:13,"-1.393768,36.762195",Run off water/sewer line,6,Piped and borehole,YES,Boiling and watergaurd
+12/10/2020 15:13:23,"-1.3727496, 36.7205847",Open water bodies,4,Tap water,NO,Ignorance
+12/10/2020 15:14:50,"-1.3727660, 36.7203668",Water storage tank,6,Tap water,YES,Chlorinated
+12/10/2020 15:25:53,"-1.3975344, 36.7548198",Water storage tank,5,Water refill,YES,Chlorinated
+12/10/2020 15:27:48,"-1.3975682, 36.7533358",Water storage tank,4,Tap water,YES,Boiling
+12/11/2020 8:13:59,"-1.3876821152773584, 36.77151936535074",Run off water/sewer line,1,Tap water,NO,Ignorance
